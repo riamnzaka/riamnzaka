@@ -41,7 +41,7 @@ I'm a computer science student bridging the gap between rigorous logic and cogni
 </p>
 
 ---
-### 📊 Matrix Diagnostics (Live Stats)
+
 
 ### 📊 Matrix Diagnostics (Live Stats)
 

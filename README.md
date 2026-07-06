@@ -43,11 +43,13 @@ I'm a computer science student bridging the gap between rigorous logic and cogni
 ---
 ### 📊 Matrix Diagnostics (Live Stats)
 
+### 📊 Matrix Diagnostics (Live Stats)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riamnzaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=98E1FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riamnzaka&theme=tokyonight&hide_border=true&background=0D1117&title_color=00F2FE&stroke=00F2FE&sideNums=98E1FF&sideLabels=98E1FF&currStreakNum=00F2FE" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=98E1FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true&background=0D1117&title_color=00F2FE&stroke=00F2FE&sideNums=98E1FF&sideLabels=98E1FF&currStreakNum=00F2FE" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riamnzaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=98E1FF" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=98E1FF" alt="Top Languages" width="60%" />
 </p>

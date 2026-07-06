@@ -1,51 +1,53 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=THE%20ANDROMEDA%20NEXUS&fontSize=65&fontAlignY=50&animation=twinkling&desc=Exploring%20Intelligence%20Through%20the%20Cosmos&descAlignY=65&descSize=18" alt="Cosmic Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=%E2%9A%99%EF%B8%8F%20INTELLIGENCE%20ENGINEERING&fontSize=40&fontAlignY=50&animation=fadeIn&textColor=FF69B4" alt="Engineering Banner" />
 </p>
 
-<!-- THE GALAXY SITE LAYOUT STARTS HERE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Building+Intelligent+Systems;%F0%9F%A7%AA+Training+Predictive+Models;%F0%9F%9B%A0%EF%B8%8F+Architecting+Data+Pipelines" alt="Typing SVG" />
+</p>
+
+---
+
 <div align="center">
-  <table width="100%" border="0" cellspacing="10" cellpadding="10" bgcolor="#000000" style="font-family: 'Open Sans', 'Courier New', sans-serif;">
+  <table width="100%" border="0" cellspacing="10" cellpadding="10" bgcolor="#0d1117" style="border: 2px solid #FFD700; border-radius: 12px;">
     <tr>
-      <!-- Column 1: The Bio and Vision -->
-      <td width="50%" align="center" style="padding-top: 20px; border: 1px solid #9A7BFF; border-radius: 10px; background-color: rgba(0, 0, 0, 0.5);">
-        <h1>🌌 The Explorer</h1>
-        <p><i>Computer Science Student | Future AI Architect | Storyteller of Systems</i></p>
+      <td width="55%" valign="top" style="color: #ffffff;">
+        <h3 style="color: #FF69B4;">🧠 About Me</h3>
+        <p align="left">
+          I am a Computer Science student specializing in building systems that translate complex data into intelligence. My engineering focus centers around algorithmic logic, robust data transformations, and system performance.
+        </p>
+        <p align="left">
+          Whether collaborating on version-controlled team workflows, refactoring database migrations, or analyzing low-level digital logic gates, I focus on building scalable architecture from the ground up.
+        </p>
         
-        <p align="left">I'm just a girl crafting complex cognitive models and mapping the logical structure of fictional universes. I bridge rigorous analysis with narrative wonder, training models to find meaning in chaos. When I'm not configuring neural layers or debugging complex architecture with my team, I'm channeling creative flow to predict—and build—the future.</p>
-        
-        <h4>⚡ My Coding Mantra</h4>
-        <p>"Intuition inspires the model, but logic executes the system."</p>
+        <h4 style="color: #FFD700;">⚡ Core Focus</h4>
+        <ul>
+          <li>Predictive Modeling & Applied Data Systems</li>
+          <li>Database Migration & Relational Architectures</li>
+          <li>Clean, Version-Controlled Collaboration</li>
+        </ul>
       </td>
 
-      <!-- Column 2: Status Dashboard (YOUR STATS) -->
-      <td width="50%" align="center" style="border: 1px solid #9A7BFF; border-radius: 10px; background-color: rgba(0, 0, 0, 0.5);">
-        <h2>📊 System Diagnostics</h2>
-        
+      <td width="45%" valign="top" align="center">
+        <h3 style="color: #FF69B4;">📊 Analytics Dashboard</h3>
         <p align="center">
-          <img src="https://github-stats-extended.vercel.app/api?username=riamnzaka&show_icons=true&theme=shadow_purple&hide_border=true" alt="GitHub Stats" width="85%" />
+          <img src="https://github-stats-extended.vercel.app/api?username=riamnzaka&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FFD700&text_color=ffffff&rank_icon=github" alt="GitHub Stats" width="100%" />
         </p>
         <p align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=riamnzaka&theme=shadow_purple&hide_border=true" alt="GitHub Streak" width="85%" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=riamnzaka&hide_border=true&background=0D1117&title_color=FF69B4&stroke=FFD700&sideNums=ffffff&sideLabels=ffffff&currStreakNum=FF69B4" alt="GitHub Streak" width="100%" />
         </p>
       </td>
     </tr>
   </table>
 </div>
 
-<br>
-
-<h2 align="center">✨ My Alchemical Tooling Stack</h2>
-<p align="center"><i>The elements I synthesize into intelligence and narrative systems.</i></p>
-
-<!-- GORGEOUS, CUSTOM 3D FLOATING TECH ICONS -->
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Core_Alchemy-FFFFFF?logo=crystal-ball&logoColor=FF99FF&labelColor=000000&style=plastic" height="40">
-  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000000" height="40">
-  <img src="https://custom-icon-badges.demolab.com/badge/SQL_Oracle-FFFFFF?logo=database-gear&logoColor=F80000&labelColor=000000&style=plastic" height="40">
-  <img src="https://custom-icon-badges.demolab.com/badge/Git_Lab-FFFFFF?logo=git-fork&logoColor=E24329&labelColor=000000&style=plastic" height="40">
-</p>
-
 ---
 
-
-
+<h3 align="center" style="color: #FFD700;">🛠️ Core Engineering Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF69B4" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=FFD700" alt="SQL" />
+  <img src="https://img.shields.io/badge/Oracle_23c-000000?style=for-the-badge&logo=oracle&logoColor=FF69B4" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFD700" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF69B4" alt="GitHub" />
+</p>

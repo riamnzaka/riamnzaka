@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffe4e1&height=150&section=header&text=%E2%9A%99%EF%B8%8F%20INTELLIGENCE%20ENGINEERING&fontSize=34&fontAlignY=50&textColor=000000&animation=fadeIn" alt="Pastel Pink Engineering Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=200&section=header&text=%E2%9A%99%EF%B8%8F%20INTELLIGENCE%20ENGINEERING&fontSize=34&fontAlignY=40&textColor=000000&animation=fadeIn" alt="Moving Pastel Pink Engineering Banner" />
 </p>
 
 <p align="center">

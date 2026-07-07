@@ -1,4 +1,7 @@
-# ⚙️ ARTIFCIAL INTELLIGENCE ENGINEERING
+<div style="background: linear-gradient(45deg, #ffe4e1 25%, #fff0f5 25%, #fff0f5 50%, #ffe4e1 50%, #ffe4e1 75%, #fff0f5 75%, #fff0f5 100%); background-size: 40px 40px; padding: 30px; border-radius: 12px; text-align: center; border: 2px solid #FFD700;">
+  <h1 style="color: #000000; font-family: 'Fira Code', monospace; margin: 0; font-size: 32px; letter-spacing: 2px;">⚙️ INTELLIGENCE ENGINEERING</h1>
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Building+Intelligent+Systems;%F0%9F%A7%AA+Training+Predictive+Models;%F0%9F%9B%A0%EF%B8%8F+Architecting+Data+Pipelines" alt="Typing SVG" />
 </p>
